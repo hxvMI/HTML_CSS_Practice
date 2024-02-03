@@ -1,11 +1,10 @@
-# practice
- Adding a description is optional
-
+# HTML_CSS_Practice
+Practicing HTML/CSS
 
 
  # README
- This is my first repository!
+ N/A
 
 
 # Additional Changes
-Making additional changes
+N/A
